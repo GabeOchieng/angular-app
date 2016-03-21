@@ -1,4 +1,4 @@
 # angular-app
-phone showcase
+phone showcase example
 
 Angular
